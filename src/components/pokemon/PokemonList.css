@@ -1,0 +1,46 @@
+input {
+    display: inline-block;
+    font-size: 15px;
+    height: 12px;
+    line-height: 24px;
+    width: 95%;
+    color: #adb1b9;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    padding: 9px 10px 9px 0px;
+    margin: 0;
+    outline: 0;
+    border: 1px solid #f5f5f6;
+    border-radius: 0 4px 4px 0;
+    border-left: 0;
+    background: #f5f5f6;
+}
+
+input:focus {
+    background-color: #ffffff;
+}
+
+.searchIcon {
+    display: inline-block;
+    font-size: 14px;
+    height: 12px;
+    line-height: 15px;
+    width: 10%;
+    color: #696e79;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    padding: 8px 10px 10px;
+    margin: 0;
+    outline: 0;
+    border: 1px solid #f5f5f6;
+    border-radius: 4px 0px 0px 4px;
+    border-left: 0;
+    background: #f5f5f6;
+    pointer-events: none;
+}
+
+.pokemonLogo {
+    width: 30px;
+    height: 30px;
+    margin-top: 7px;
+}
