@@ -6,6 +6,9 @@
   min-width: 100vh;
 }
 
+body{
+  background-color: #f3ece4;
+}
 .navbar {
   /* background-color: #3d5361 !important; */
   background-color: #d84339 !important;
